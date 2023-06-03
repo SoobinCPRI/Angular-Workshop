@@ -1,3 +1,2 @@
 # Angular-Workshop
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/yhwoda)
+Repositório voltado à introdução ao Angular, ministrado pelo workshop da Faculdade Senac Pernambuco.
